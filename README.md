@@ -1,13 +1,20 @@
 # Pixel Survivor
 
-Official Windows downloads for Pixel Survivor, a pixel-art survival game built with Godot.
+Windows pixel-art survival game. Choose Mage, Warrior or Archer and survive the Corrupted Forest.
 
-**Latest release:** [0.1.4.1510](https://github.com/cscoder69/pixel-survivor-release/releases/tag/v0.1.4.1510).
+**Latest development release: [0.1.4.1736](https://github.com/cscoder69/pixel-survivor-release/releases/tag/v0.1.4.1736)**
 
-[Download the latest Windows build](https://github.com/cscoder69/pixel-survivor-release/releases/latest)
+[Download the Windows ZIP](https://github.com/cscoder69/pixel-survivor-release/releases/download/v0.1.4.1736/PixelSurvivor-0.1.4.1736-Windows.zip)
 
-Extract the entire Windows ZIP and launch PixelSurvivor.exe. Keep PixelSurvivor.pck beside the executable. No Godot installation is required.
+Extract the entire ZIP and launch PixelSurvivor.exe. Keep PixelSurvivor.pck next to the executable. No Godot installation is required. The game works offline; existing installations can use the in-game update notification.
 
-Choose one of three heroes, survive monster waves, collect upgrades and fight eight escalating boss encounters. This development release includes revised boss combat, attack animations, ranged enemies, ten-rank skills and redesigned sound effects. Full-run balance is still being tuned.
+## In this release
 
-The game checks this repository for updates and supports offline play. This repository contains public downloads only; the source repository is private.
+- Twelve powerups with independent levels 1-10, stronger combat effects and quantity milestones at levels 4, 7 and 10.
+- HUD powerup icons, levels and current/next effect tooltips.
+- Compatible powerup choices on level-up and epic rewards after intermediate bosses.
+- Skills, passives and their rank upgrades come only from chests, with one guaranteed nonempty starting chest.
+
+This repository contains public distribution files only. Source development is maintained separately in a private repository. This is a development build; full human balance testing remains pending.
+
+[All releases](https://github.com/cscoder69/pixel-survivor-release/releases) | [Support development](https://buymeacoffee.com/cscoder)
