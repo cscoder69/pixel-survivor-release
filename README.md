@@ -1,20 +1,15 @@
 # Pixel Survivor
 
-Windows pixel-art survival game. Choose Mage, Warrior or Archer and survive the Corrupted Forest.
+Official Windows downloads for Pixel Survivor.
 
-**Latest development release: [0.1.4.1736](https://github.com/cscoder69/pixel-survivor-release/releases/tag/v0.1.4.1736)**
+## Latest development release
 
-[Download the Windows ZIP](https://github.com/cscoder69/pixel-survivor-release/releases/download/v0.1.4.1736/PixelSurvivor-0.1.4.1736-Windows.zip)
+[0.1.4.202610241350](https://github.com/cscoder69/pixel-survivor-release/releases/tag/v0.1.4.202610241350)
 
-Extract the entire ZIP and launch PixelSurvivor.exe. Keep PixelSurvivor.pck next to the executable. No Godot installation is required. The game works offline; existing installations can use the in-game update notification.
+[Download the Windows ZIP](https://github.com/cscoder69/pixel-survivor-release/releases/download/v0.1.4.202610241350/PixelSurvivor-0.1.4.202610241350-Windows.zip)
 
-## In this release
+Extract the entire ZIP and launch PixelSurvivor.exe. Keep PixelSurvivor.pck beside the executable. No installation is required.
 
-- Twelve powerups with independent levels 1-10, stronger combat effects and quantity milestones at levels 4, 7 and 10.
-- HUD powerup icons, levels and current/next effect tooltips.
-- Compatible powerup choices on level-up and epic rewards after intermediate bosses.
-- Skills, passives and their rank upgrades come only from chests, with one guaranteed nonempty starting chest.
+This release adds independent reroll, ban and pin controls for chest and powerup rewards, automatic chest/shrine activation, eight shared active skills, eight shared passive skills, eight shrine kinds and clearer reward cards.
 
-This repository contains public distribution files only. Source development is maintained separately in a private repository. This is a development build; full human balance testing remains pending.
-
-[All releases](https://github.com/cscoder69/pixel-survivor-release/releases) | [Support development](https://buymeacoffee.com/cscoder)
+The game supports offline play and optional in-game updates. This is a development release; full-run balance tuning remains ongoing. Source is maintained in a separate private repository. This repository contains public downloads only.
