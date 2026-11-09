@@ -4,9 +4,9 @@ Official Windows downloads for Pixel Survivor.
 
 ## Latest development release
 
-[0.1.4.202611081218](https://github.com/cscoder69/pixel-survivor-release/releases/tag/v0.1.4.202611081003)
+[0.1.4.202611082007](https://github.com/cscoder69/pixel-survivor-release/releases/tag/v0.1.4.202611081003)
 
-[Download the Windows ZIP](https://github.com/cscoder69/pixel-survivor-release/releases/download/v0.1.4.202611081003/PixelSurvivor-0.1.4.202611081218-Windows.zip)
+[Download the Windows ZIP](https://github.com/cscoder69/pixel-survivor-release/releases/download/v0.1.4.202611081003/PixelSurvivor-0.1.4.202611082007-Windows.zip)
 
 Extract the entire ZIP and launch PixelSurvivor.exe. Keep PixelSurvivor.pck beside it. No installation is required.
 
